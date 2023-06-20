@@ -12,7 +12,7 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 
-"""A sample skeleton vehicle app."""
+""" A sample skeleton vehicle app. """
 
 import asyncio
 import json
